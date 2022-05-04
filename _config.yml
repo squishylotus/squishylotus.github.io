@@ -40,7 +40,7 @@ theme: minima
 plugins:
   - jekyll-feed
 
-remote_theme: jekyll/minima
+jekyll-remote-theme: jekyll/minima
 
 minima:
   skin: dark
