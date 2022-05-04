@@ -27,6 +27,7 @@ author:
 
 description: >- # this means to ignore newlines until "baseurl:"
   A blog for an inexperienced programmer.
+
   私は又勉強を日本語です。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -38,6 +39,8 @@ theme: minima
 
 plugins:
   - jekyll-feed
+
+remote_theme: jekyll/minima
 
 minima:
   skin: dark
