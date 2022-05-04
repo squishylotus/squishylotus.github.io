@@ -38,9 +38,10 @@ github_username: squishylotus
 theme: minima
 
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
 
-jekyll-remote-theme: jekyll/minima
+remote-theme: jekyll/minima
 
 minima:
   skin: dark
