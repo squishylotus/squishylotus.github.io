@@ -41,7 +41,7 @@ plugins:
   - jekyll-remote-theme
   - jekyll-feed
 
-remote-theme: jekyll/minima
+remote_theme: benbalter/retlab
 
 minima:
   skin: dark
